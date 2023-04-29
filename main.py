@@ -7,7 +7,7 @@ import time
 import os
 
 # Set up the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR KEY"
 
 # Set up the microphone and wave file
 CHUNK = 1024
