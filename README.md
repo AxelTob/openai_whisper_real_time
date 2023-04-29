@@ -44,3 +44,7 @@ To clear the text box, click the "Clear" button.
 ## License
 
 The code in this repository is public domain.
+
+## Increase performance
+I'd play arouynd with temperature to the openAI api, and set a language for the input.
+Also changing the microphone settings (rates, window chunk) etc might yield better results for your use-case.
