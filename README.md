@@ -2,7 +2,7 @@
 
 Ugly demo app.
 This program is a real-time speech to text transcription tool that uses OpenAI's API for transcribing audio files. It works by constantly recording audio from the user's microphone, and sending the audio to OpenAI's API for transcription. The transcription is then displayed in real-time in a GUI window.
-<img src="demo.png" alt="alt text" width="200"/>
+<img src="demo.png" alt="alt text" width="400"/>
 
 
 ## Installation
